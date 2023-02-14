@@ -1,5 +1,5 @@
-const textArea = document.querySelector(".text-area");
-const mensagem = document.querySelector(".mensagem");
+const textArea = document.querySelector(".area-insere-texto");
+const mensagem = document.querySelector(".textoTransformado");
 
 // As "chaves" de criptografia que utilizaremos são:
 // `A letra "e" é convertida para "enter"`
